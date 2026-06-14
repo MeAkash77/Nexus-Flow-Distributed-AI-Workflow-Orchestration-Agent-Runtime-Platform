@@ -2,7 +2,8 @@
 
 NexusFlow is a production-grade agentic operating system that orchestrates a team of specialized AI agents to build software. It features comprehensive security, observability, and orchestration capabilities based on the PRIDES framework and A2A/AP2 protocols.
 
-![NexusFlow Screenshot](<img width="959" height="440" alt="Image" src="https://github.com/user-attachments/assets/24ff9cb4-b500-45fa-bf8d-c92091abf49b" />)
+![NexusFlow Screenshot]
+<img width="959" height="440" alt="Image" src="https://github.com/user-attachments/assets/24ff9cb4-b500-45fa-bf8d-c92091abf49b" />
 
 ## 🚀 Features
 
